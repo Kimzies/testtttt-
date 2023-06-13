@@ -1,0 +1,12 @@
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\obj\Debug\test.Form1.resources
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\bin\Debug\test.exe.config
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\bin\Debug\test.exe
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\bin\Debug\test.pdb
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\obj\Debug\test.exe
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\obj\Debug\test.pdb
+C:\Users\Kim Vo's\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\Năm 2\Nhap mon CNPM\test\test\test\obj\Debug\GUI.fMain.resources
